@@ -36,7 +36,7 @@ Run the compiled binary:
 
 Run PScan with the desired options:
 
-```bash
+```css
 pscan -h <host> [-t <timeout in ms>] [-p <port range or list>]
 ```
 
